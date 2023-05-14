@@ -8,7 +8,8 @@ Sample Model lab Questions
 - https://www.youtube.com/watch?v=EJEz6t5SpMw
 
 
-## 2. Design a circuit to monitor the state of the potentiometer based on signal variance along with Arduino IDE  
+## 2. Design a circuit to monitor the state of the potentiometer based on signal variance along with Arduino IDE
+1. https://wokwi.com/projects/364676436932499457
 Pdf
 
 ## 3. Design a circuit to indicate the fire alarm using a buzzer along with Arduino IDE
