@@ -2,8 +2,10 @@
 
 Sample Model lab Questions 
 ## 1. Design a simple Arduino based circuit to power on a Light Emitting Diode in ON and OFF state continuously for 5 times.  
-https://www.youtube.com/watch?v=EJEz6t5SpMw
-https://www.youtube.com/watch?v=EJEz6t5SpMw
+1. https://wokwi.com/projects/364674153314272257
+
+- https://www.youtube.com/watch?v=EJEz6t5SpMw
+- https://www.youtube.com/watch?v=EJEz6t5SpMw
 
 
 ## 2. Design a circuit to monitor the state of the potentiometer based on signal variance along with Arduino IDE  
