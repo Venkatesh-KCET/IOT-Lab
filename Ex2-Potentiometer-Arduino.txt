@@ -1,0 +1,16 @@
+void setup() {
+  pinMode(A0, INPUT);
+  pinMode(8, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  int a = analogRead(A0);
+  if(a > 500) {
+    digitalWrite(8, HIGH);
+  } else {
+    digitalWrite(8, LOW);
+  }
+  Serial.println(a);
+  delay(1000);
+}
