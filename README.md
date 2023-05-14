@@ -17,6 +17,7 @@ Pdf
 - https://circuitdigest.com/microcontroller-projects/arduino-flame-sensor-                          interfacing
 
 ## 4. Using Arduino IDE, design and implement a PIR (Passive Infra Red) sensor circuit to detect whether a human has moved in or out of the sensors range. 
+1. https://wokwi.com/projects/364682318578935809
 - https://www.youtube.com/watch?v=WLrOQKqty1I
 - https://randomnerdtutorials.com/arduino-with-pir-motion-sensor/
 
